@@ -1,5 +1,12 @@
 xRAT 2.0
 ========
+
+heelo @OpenSourceCS thanee u fa givin palce to comment .
+u r so chelfish pa @MaxXor transper owneeship to someone else.
+heelo pa @MaxXor Maximillian Jungpa. headde on to check ur mail pa.
+
+get hitt by a truck[big truck ] pa.
+
 [![Build status](https://ci.appveyor.com/api/projects/status/na7hitbqx8327xr9?svg=true)](https://ci.appveyor.com/project/MaxXor/xrat)
 
 **Free, Open-Source Remote Administration Tool**
